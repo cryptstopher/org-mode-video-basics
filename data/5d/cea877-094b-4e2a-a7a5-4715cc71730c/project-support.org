@@ -1,0 +1,5 @@
+#+title: Org mode video project support
+
+- do this
+- do that
+- get yourself organized mit org mode

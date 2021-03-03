@@ -1,0 +1,18 @@
+#+title: Projects
+#+author: Chris M
+#+filetags: projects
+#+archive: archives.org::
+
+* Org mode video                                                     :ATTACH:
+  DEADLINE: <2021-03-05 Fri>
+  :PROPERTIES:
+  :CATEGORY: YouTube
+  :ID:       5dcea877-094b-4e2a-a7a5-4715cc71730c
+  :END:
+
+* Dired video                                                        :ATTACH:
+  :PROPERTIES:
+  :CATEGORY: YouTube
+  :CUSTOM_ID: dired
+  :ID:       103557b4-33bd-4028-b6ba-95a1a62ce07a
+  :END:

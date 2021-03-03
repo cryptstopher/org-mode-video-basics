@@ -1,0 +1,30 @@
+#+title: Org Mode GTD Accomplishments
+
+* Pre-rec
+
+- Some familiarity with Emacs and Org mode
+
+* What is GTD?
+
+- /Getting Things Done/ by David Allen
+- Systematic approach to productivity and "time management"
+  - You cannot manage time but *actions*
+- GTD consists of...
+  - Calendar
+  - Various lists
+    - Next actions by context
+    - Projects
+    - "Someday"
+    - Getting creative
+
+* In this video...
+
+- [X] Create files
+  - [X] next actions
+  - [X] projects
+- [X] agenda views
+  - [X] calendar
+  - [X] next actions
+  - [X] waiting
+  - [X] completed
+  - [X] ?

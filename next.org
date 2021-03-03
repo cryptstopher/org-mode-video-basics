@@ -1,0 +1,19 @@
+#+title: Next Actions
+#+author: Chris M
+#+seq_todo: NEXT(n) WAITING(w) | DONE(D)
+#+filetags: actions
+#+archive: archives.org::
+
+* NEXT Pick up batteries
+:PROPERTIES:
+:CATEGORY: Errands
+:END:
+* NEXT Return some videotapes
+:PROPERTIES:
+:CATEGORY: Errands
+:END:
+* WAITING Reply from accountant
+* NEXT Call dad
+  :PROPERTIES:
+  :CATEGORY: Phone
+  :END:
